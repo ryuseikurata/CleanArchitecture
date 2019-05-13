@@ -1,4 +1,8 @@
 package database
 
-import "app/domain"
+import "github.com/ryuseikurata/CleanArchitecture/domain"
+
+
+
+
 

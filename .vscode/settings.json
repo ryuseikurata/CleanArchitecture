@@ -1,3 +1,5 @@
 {
-    "go.gopath": "~/go/src/github.com/ryuseikurata/CleanArchitecture"
+    "go.gopath": "/Users/kurataryusei/go" ,
+    "files.autoSave": "afterDelay",
+    "go.gocodeAutoBuild": true,
 }
